@@ -1,20 +1,51 @@
-### Hello, Friend👋
-I'm Information systems student who loves technology, programming, and of course, solving problems.
+
+## Hello, Friend!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
+
 
 - 🔭 I’m currently working on : Database Administration
+- 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danleyalves/)
 - 🌱 I’m currently learning: Python, SQL and Linux
 - 👯 I’m looking to collaborate on: Python Projects
-- 🤔 I’m looking for help with: Python
 - 💬 Ask me about: SQL, MySQL, PostgreSQL
-- 📫 How to reach me: @rootdanley on socials
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm Brazilian and I speak Portuguese! (:P)
 
 
 <div align="center">
-  <a href="https://github.com/rootdanley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootdanley&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootdanley&layout=compact&langs_count=10&theme=merko"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=rootdanley&layout=compact&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff">
 </div>
 
+
+
+
+
+
+<h2>Follow me:</h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/danleyalves/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/rootdanley/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+ <a href="https://twitter.com/rootdanley/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+   <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&logoColor=white&color=071A2C" alt="Medium">
+  </a>
+      <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-%231877F2.svg?&style=flat-square&logo=steam&logoColor=white&color=071A2C" alt="Steam">
+  </a>
+   <a href="mailto:rootdanley@gmail.com" mailto="rootdanley@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
+
+  
+</div>
+
+</br>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+</div>
 
