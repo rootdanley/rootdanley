@@ -4,6 +4,7 @@
 
 - 🔭 I’m currently working on : Database Administration
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danleyalves/)
+- 😍 Site [danley.com.br](https://www.danley.com.br/)
 - 🌱 I’m currently learning: Python, SQL and Linux
 - 👯 I’m looking to collaborate on: Python Projects
 - 💬 Ask me about: SQL, MySQL, PostgreSQL
@@ -31,10 +32,10 @@
  <a href="https://twitter.com/rootdanley/" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
   </a>
-   <a href="" target="_blank">
+   <a href="https://medium.com/@rootdanley" target="_blank">
     <img src="https://img.shields.io/badge/Medium-%231877F2.svg?&style=flat-square&logo=medium&logoColor=white&color=071A2C" alt="Medium">
   </a>
-      <a href="" target="_blank">
+      <a href="https://steamcommunity.com/id/ezzoki" target="_blank">
     <img src="https://img.shields.io/badge/Steam-%231877F2.svg?&style=flat-square&logo=steam&logoColor=white&color=071A2C" alt="Steam">
   </a>
    <a href="mailto:rootdanley@gmail.com" mailto="rootdanley@gmail.com" target="_blank">
