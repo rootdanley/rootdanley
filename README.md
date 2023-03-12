@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on : Database Administration
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danleyalves/)
 - 😍 Site [danley.com.br](https://www.danley.com.br/)
-- 🌱 I’m currently learning: Python,Java PL/Sql and Linux
+- 🌱 I’m currently learning: Python, Java, Sping, SQL and Linux
 - 👯 I’m looking to collaborate on: Open-Sources Projects
 - 💬 Ask me about: SQL, MySQL, PostgreSQL, SQL-Server 
 - 😄 Pronouns: He/Him
