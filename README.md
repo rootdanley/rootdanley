@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on : Database Administration
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danleyalves/)
-- 😍 Site [danley.com.br](https://www.danley.com.br/)
+- 😍 Site [danley.com.br](danley.com.br)
 - 🌱 I’m currently learning: Python, Java, Spring, SQL and Linux
 - 👯 I’m looking to collaborate on: Open-Sources Projects
 - 💬 Ask me about: SQL, MySQL, PostgreSQL, SQL-Server 
