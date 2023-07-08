@@ -2,12 +2,12 @@
 ## Hello, Friend!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 
-- 🔭 I’m currently working on : Database Administration
+- 🔭 I’m currently working on : Backend Developer
 - 📫 &nbsp;Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/danleyalves/)
 - 😍 Site [danley.com.br](http:danley.com.br/)
-- 🌱 I’m currently learning: Python(Django) & Java(Spring)
+- 🌱 I’m currently learning: Java(Spring)
 - 👯 I’m looking to collaborate on: Open-Sources Projects
-- 💬 Ask me about: SQL,PostgreSQL, SQL-Server & Linux
+- 💬 Ask me about: PostgreSQL & Linux
 - 😄 Pronouns: He/Him
 
 
