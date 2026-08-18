@@ -15,10 +15,9 @@ Sou **Administrador de Banco de Dados (DBA Pleno)**, com atuação em ambientes 
 ## 🛠️ Tecnologias e conhecimentos
 
 **Bancos de dados:** MySQL, PostgreSQL, MongoDB e MongoDB Atlas  
-**Nuvem:** AWS e Google Cloud Platform  
+**Nuvem:** AWS, Atlas, Linode e Google Cloud Platform  
 **Sistemas:** Linux, RHEL, Ubuntu e Debian  
 **Monitoramento:** Zabbix, Grafana, Datadog e CloudWatch  
-**Desenvolvimento:** Python, Java, Spring Boot, SQL, Git e Docker  
 **Práticas:** alta disponibilidade, replicação, backup, recuperação de desastres, migração, FinOps e análise de desempenho
 
 ## 📌 Projetos em destaque
