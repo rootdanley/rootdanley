@@ -1,19 +1,31 @@
-## Hi there 👋
+Olá! Eu sou Danley Alves 👋
 
-<!--
-**rootdanley/rootdanley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Administrador de Banco de Dados (DBA Pleno), com atuação em ambientes locais e em nuvem. Trabalho com administração, monitoramento, alta disponibilidade, migração, atualização, recuperação de desastres e otimização de desempenho de bancos de dados.
 
-Here are some ideas to get you started:
+🧑‍💻 Sobre mim
+Experiência com MySQL, PostgreSQL e MongoDB;
+Administração de bancos na AWS, utilizando RDS, Aurora, EC2, DMS, CloudWatch e Performance Insights;
+Experiência com ambientes GCP, Linode e Linux;
+Atuação com replicação, backups, PITR, upgrades, troubleshooting e análise de causa raiz;
+Monitoramento de ambientes com Zabbix, Grafana e Datadog;
+Desenvolvimento de projetos e automações com Python, Java e Spring Boot;
+Foco em estabilidade, segurança, desempenho e redução de custos.
+🛠️ Tecnologias e conhecimentos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rootdanley&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+Bancos de dados: MySQL, PostgreSQL, MongoDB e MongoDB Atlas
+Nuvem: AWS e Google Cloud Platform
+Sistemas: Linux, RHEL, Ubuntu e Debian
+Monitoramento: Zabbix, Grafana, Datadog e CloudWatch
+Desenvolvimento: Python, Java, Spring Boot, SQL, Git e Docker
+Práticas: alta disponibilidade, replicação, backup, recuperação de desastres, migração, FinOps e análise de desempenho
+
+📌 Projetos em destaque
+DB Health Check MySQL — automação para coleta e análise de informações de ambientes MySQL.
+API de Pagamentos — API desenvolvida com Java e Spring Boot.
+Spring Boot OAuth2 JWT — implementação de autenticação e autorização com OAuth2 e JWT.
+Traffic API — API REST desenvolvida com Spring Boot.
+🎯 Objetivo profissional
+
+Continuar evoluindo como DBA e profissional de tecnologia, aprofundando conhecimentos em bancos de dados, arquitetura em nuvem, automação e desenvolvimento de soluções confiáveis, escaláveis e eficientes.
+
+Obrigado pela visita! 🚀
