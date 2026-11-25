@@ -4,8 +4,8 @@ Sou **Administrador de Banco de Dados (DBA Pleno)**, com atuação em ambientes 
 
 ## 🧑‍💻 Sobre mim
 
-- Experiência com **MySQL, PostgreSQL e MongoDB**;
-- Administração de bancos na **AWS**, utilizando RDS, Aurora, EC2, DMS, CloudWatch e Performance Insights;
+- Experiência com **MySQL, PostgreSQL, MongoDB e SQL Server**;
+- Administração de bancos na **AWS**, utilizando Azure, RDS, Aurora, EC2, DMS, CloudWatch e Performance Insights;
 - Experiência com ambientes **GCP, Linode e Linux**;
 - Atuação com replicação, backups, PITR, upgrades, troubleshooting e análise de causa raiz;
 - Monitoramento de ambientes com **Zabbix, Grafana e Datadog**;
